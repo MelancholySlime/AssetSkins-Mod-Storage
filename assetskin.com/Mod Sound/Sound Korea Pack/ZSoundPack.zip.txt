@@ -1,0 +1,3 @@
+ZSoundPack.zip
+GitHub Release: https://github.com/MelancholySlime/AssetSkins-Mod-Storage/releases/tag/ZSoundPack
+Download: https://github.com/MelancholySlime/AssetSkins-Mod-Storage/releases/download/ZSoundPack/ZSoundPack.zip

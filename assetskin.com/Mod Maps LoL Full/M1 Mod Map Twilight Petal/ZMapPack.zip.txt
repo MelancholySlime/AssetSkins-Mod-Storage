@@ -1,0 +1,3 @@
+ZMapPack.zip
+GitHub Release: https://github.com/MelancholySlime/AssetSkins-Mod-Storage/releases/tag/ZMapPack
+Download: https://github.com/MelancholySlime/AssetSkins-Mod-Storage/releases/download/ZMapPack/ZMapPack.zip
